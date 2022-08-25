@@ -1,1 +1,1 @@
-# 열혈 C++ oop practice
+# 윤성우 열혈 C++ OOP

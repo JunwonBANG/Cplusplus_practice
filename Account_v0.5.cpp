@@ -49,9 +49,9 @@ int Account::Withdraw(int money)
 
 void Account::ShowAccInfo() const
 {
-	cout<<"°èÁÂID: "<<accID<<endl;
-	cout<<"ÀÌ¸§: "<<cusName<<endl;
-	cout<<"ÀÜ ¾×: "<<balance<<endl; 
+	cout<<"Â°Ã¨ÃÃ‚ID: "<<accID<<endl;
+	cout<<"Ã€ÃŒÂ¸Â§: "<<cusName<<endl;
+	cout<<"Ã€Ãœ Â¾Ã—: "<<balance<<endl; 
 }
 
 Account::~Account()
